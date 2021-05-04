@@ -13,13 +13,13 @@
       },
       "last_updated": "1618409390"
     },
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "Chapter 2": {
+      "title": "That's an alien, ain't it?",
+      "volume": "",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "A pair of 2+": "/proxy/api/imgur/chapter/16npqzD/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1618633805"
     }
   }
 }
