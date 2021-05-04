@@ -1,9 +1,9 @@
 {
-  "title": "<manga title>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "Dandadan",
+  "description": "Ken Takakura, a boy who is an occult fanatic who doesn't believe in ghosts, and Momo Ayase, a girl who doesn't believe in aliens, encounter overwhelming strangeness that transcends their mutual understanding...! An occult coming-of-age story!",
+  "artist": "Yukinobu Tatsu",
+  "author": "Yukinobu Tatsu",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-lUJJTdpAWJjW.png",
   "chapters": {
     "<chapter number>": {
       "title": "<chapter name>",
@@ -20,6 +20,6 @@
         "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
