@@ -1,41 +1,41 @@
 {
-  "title": "Dandadan",
-  "description": "Ken Takakura, a boy who is an occult fanatic who doesn't believe in ghosts, and Momo Ayase, a girl who doesn't believe in aliens, encounter overwhelming strangeness that transcends their mutual understanding...! An occult coming-of-age story!",
-  "artist": "Yukinobu Tatsu",
-  "author": "Yukinobu Tatsu",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-lUJJTdpAWJjW.png",
-  "chapters": {
-    "Chapter 1": {
-      "title": "This is how love begins, ain't it?",
-      "volume": "",
-      "groups": {
-        "A pair of 2+": "/proxy/api/imgur/chapter/TAXYCmf/"
+   "title":"Dandadan",
+   "description":"Ken Takakura, a boy who is an occult fanatic who doesn't believe in ghosts, and Momo Ayase, a girl who doesn't believe in aliens, encounter overwhelming strangeness that transcends their mutual understanding...! An occult coming-of-age story!",
+   "artist":"Yukinobu Tatsu",
+   "author":"Yukinobu Tatsu",
+   "cover":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-lUJJTdpAWJjW.png",
+   "chapters":{
+      "Chapter 1":{
+         "title":"This is how love begins, ain't it?",
+         "volume":"",
+         "groups":{
+            "A pair of 2+":"/proxy/api/imgur/chapter/TAXYCmf/"
+         },
+         "last_updated":"1618429190"
       },
-      "last_updated": "1618429190"
-    },
-    "Chapter 2": {
-      "title": "That's an alien, ain't it?",
-      "volume": "",
-      "groups": {
-        "A pair of 2+": "/proxy/api/imgur/chapter/16npqzD/"
+      "Chapter 2":{
+         "title":"That's an alien, ain't it?",
+         "volume":"",
+         "groups":{
+            "A pair of 2+":"/proxy/api/imgur/chapter/16npqzD/"
+         },
+         "last_updated":"1618653605"
       },
-      "last_updated": "1618653605"
-    },
-    "Chapter 3": {
-      "title": "A clash of the grannies, huh?",
-      "volume": "",
-      "groups": {
-        "A pair of 2+": "/proxy/api/imgur/chapter/E6Qfbly/"
+      "Chapter 3":{
+         "title":"A clash of the grannies, huh?",
+         "volume":"",
+         "groups":{
+            "A pair of 2+":"/proxy/api/imgur/chapter/E6Qfbly/"
+         },
+         "last_updated":"1619052895"
       },
-      "last_updated": "1619052895"
-    },
-    "Chapter 4": {
-      "title": "Let's go to the bathroom",
-      "volume": "",
-      "groups": {
-        "A pair of 2+": "/proxy/api/imgur/chapter/uA1soTW/"
-      },
-      "last_updated": "1619872486"
-    }
-  }
+      "Chapter 4":{
+         "title":"Let's go to the bathroom",
+         "volume":"",
+         "groups":{
+            "A pair of 2+":"/proxy/api/imgur/chapter/uA1soTW/"
+         },
+         "last_updated":"1619872486"
+      }
+   }
 }
