@@ -5,7 +5,7 @@
    "author":"Yukinobu Tatsu",
    "cover":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-lUJJTdpAWJjW.png",
    "chapters":{
-      "Chapter 1":{
+      "1":{
          "title":"This is how love begins, ain't it?",
          "volume":"",
          "groups":{
@@ -13,7 +13,7 @@
          },
          "last_updated":"1618429190"
       },
-      "Chapter 2":{
+      "2":{
          "title":"That's an alien, ain't it?",
          "volume":"",
          "groups":{
@@ -21,7 +21,7 @@
          },
          "last_updated":"1618653605"
       },
-      "Chapter 3":{
+      "3":{
          "title":"A clash of the grannies, huh?",
          "volume":"",
          "groups":{
@@ -29,7 +29,7 @@
          },
          "last_updated":"1619052895"
       },
-      "Chapter 4":{
+      "4":{
          "title":"Let's go to the bathroom",
          "volume":"",
          "groups":{
