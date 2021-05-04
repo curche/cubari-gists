@@ -5,13 +5,13 @@
   "author": "Yukinobu Tatsu",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-lUJJTdpAWJjW.png",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "Chapter 1": {
+      "title": "This is how love begins, ain't it?",
+      "volume": "",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "A pair of 2+": "/proxy/api/imgur/chapter/TAXYCmf/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1618409390"
     },
     "<chapter number>": {
       "title": "<chapter name>",
